@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bonjour, Arif here! 👋
+Tech and Programming Language Enthusiast.
 
-<!--
-**ardwiinoo/ardwiinoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Performance Overall
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current activity
+
+- 💻 I'm currently studying;
+- 📖 I’m currently learning C++ and Js;
+- 🤔 My interests are with front-end & backend then i decide to do fullstack;
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via job.ardwino@gmail.com to reach me.
+- 📝 See my <a href="https://www.linkedin.com/in/arif-dwi-nugroho/">linked.in</a> to get more info.
