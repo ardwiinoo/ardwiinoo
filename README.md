@@ -13,4 +13,4 @@ Tech and Programming Language Enthusiast.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via job.ardwino@gmail.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/arif-dwi-nugroho/">linked.in</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/arif-dwi-nugroho-596a951b2/">linked.in</a> to get more info.
