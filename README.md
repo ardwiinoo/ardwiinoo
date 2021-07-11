@@ -12,5 +12,5 @@ Tech and Programming Language Enthusiast.
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via job.ardwino@gmail.com to reach me.
+- 📫 Please email via ardwino88@gmail.com to reach me.
 - 📝 See my <a href="https://www.linkedin.com/in/arif-dwi-nugroho-596a951b2/">linked.in</a> to get more info.
