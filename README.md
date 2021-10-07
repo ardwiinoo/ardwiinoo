@@ -8,7 +8,7 @@ Tech and Programming Language Enthusiast.
 ## Current activity
 
 - 💻 I'm currently studying;
-- 📖 I’m currently learning C++ and Js;
+- 📖 I’m currently learning Java;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
