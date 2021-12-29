@@ -1,4 +1,4 @@
-### Bonjour, Arif here! 👋
+### Bonjour, Arif here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Tech and Programming Language Enthusiast.
 
 ## Github Performance Overall
