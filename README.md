@@ -1,4 +1,4 @@
-### Bonjour, Arif here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Bonjour, Arif here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 Tech and Programming Language Enthusiast.
 
 ## Github Performance Overall
@@ -8,7 +8,7 @@ Tech and Programming Language Enthusiast.
 ## Current activity
 
 - 💻 I'm currently studying;
-- 📖 I’m currently learning Java;
+- 📖 I’m currently learning Laravel;
 - 🤔 My interests are with front-end & backend then i decide to do fullstack;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
