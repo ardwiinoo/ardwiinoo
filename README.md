@@ -1,16 +1,9 @@
-### Bonjour, Arif here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
-Tech and Programming Language Enthusiast.
 
-## Github Performance Overall
+
+- 🔭 I’m currently working on my personal projects, you can check <a href="http://ardwiinoo.github.io/" target="blank">my personal website</a>
+- ⚡ Excited to learn how to make good backend apps
+- 🌱 I’m currently learning laravel
+- 😄 I'm natively speaking Indonesian and passively speaking English
+- 📫 You can reach me at my instagram [@ardwino_](https://instagram.com/ardwino_)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true)
-
-## Current activity
-
-- 💻 I'm currently studying;
-- 📖 I’m currently learning Laravel;
-- 🤔 My interests are with front-end & backend then i decide to do fullstack;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via ardwiinoo@gmail.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/arif-dwi-nugroho-596a951b2/">linked.in</a> to get more info.
