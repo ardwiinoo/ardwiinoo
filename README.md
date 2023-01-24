@@ -1,9 +1,35 @@
+<p align="center">
+   <a href="https://instagram.com/ardwino_">
+    <img src="https://img.shields.io/badge/ardwino_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="https://www.linkedin.com/in/arif-dwi-nugroho-596a951b2/">
+    <img src="https://img.shields.io/badge/-arif%20dwi%20nugroho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:ardwiinoo@gmail.com">
+    <img src="https://img.shields.io/badge/ardwiinoo@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
-
-- 🔭 I’m currently working on my personal projects, you can check <a href="http://ardwiinoo.github.io/" target="blank">my personal website</a>
-- ⚡ Excited to learn how to make good backend apps
-- 🌱 I’m currently learning nodejs
-- 😄 I'm natively speaking Indonesian and passively speaking English
-- 📫 You can reach me at my instagram [@ardwino_](https://instagram.com/ardwino_) or linkedin [@arif-dwi-nugroho](https://www.linkedin.com/in/arif-dwi-nugroho-596a951b2/)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true&theme=radical) 
+```json
+{
+  "fullname": "Arif Dwi Nugroho",
+  "country": "Indonesia",
+  "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
+  "language": "Native Indonesian and passive English",
+  "learning_tech": {
+      "front_end": [
+          "React Js",
+      ],
+      "back_end": [
+          "Express Js",
+          "Laravel"
+      ],
+      "database": [
+          "Mysql",
+          "Sqlite"
+      ],
+  },
+}
+```
+|<img align="center" src="https://streak-stats.demolab.com?user=ardwiinoo&theme=radical"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true&count_private=true&theme=radical" />|
+|---|---|
