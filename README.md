@@ -12,23 +12,28 @@
 
 ```json
 {
-  "fullname": "Arif Dwi Nugroho",
-  "country": "Indonesia",
-  "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
-  "language": "Native Indonesian and passive English",
-  "learning_tech": {
-      "front_end": [
-          "React Js",
-      ],
-      "back_end": [
-          "Express Js",
-          "Laravel"
+   "fullname": "Arif Dwi Nugroho",
+   "country": "Indonesia",
+   "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
+   "language": "Native Indonesian and passive English",
+   "learning_tech": {
+      "website": {
+         "front_end": [
+            "React JS"
+         ],
+         "back_end": [
+            "Express Js",
+            "Laravel"
+         ]
+      },
+      "android": [
+         "Kotlin"
       ],
       "database": [
-          "Mysql",
-          "Sqlite"
-      ],
-  },
+         "Mysql",
+         "Sqlite"
+      ]
+   }
 }
 ```
 |<img align="center" src="https://streak-stats.demolab.com?user=ardwiinoo&theme=radical"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true&count_private=true&theme=radical" />|
