@@ -31,6 +31,8 @@
       ],
       "database": [
          "Mysql",
+         "PostgreSQL",
+         "MongoDB",
          "Sqlite"
       ]
    }
