@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/-arif%20dwi%20nugroho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:ardwiinoo@proton.me">
-    <img src="https://img.shields.io/badge/ardwiinoo@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/ardwiinoo@proton.me-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
