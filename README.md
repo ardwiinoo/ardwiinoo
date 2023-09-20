@@ -1,3 +1,11 @@
+[![ardwiinoo's header](./images/ardwiinoo.svg)](https://ardwiinoo.my.id/)
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ardwiinoo.ardwiinoo" />
+  <a href="https://github.com/ardwiinoo"><img src="https://img.shields.io/github/followers/ardwiinoo?label=followers&style=social"/></a>
+  <a href="https://user-badge.committers.top/indonesia/ardwiinoo"><img src="https://user-badge.committers.top/indonesia/ardwiinoo.svg" alt="committers.top badge"></a>
+</p>
+
 <p align="center">
    <a href="https://instagram.com/ardwino_">
     <img src="https://img.shields.io/badge/ardwino_-0078D4?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
@@ -10,33 +18,4 @@
   </a>
 </p>
 
-```json
-{
-   "fullname": "Arif Dwi Nugroho",
-   "country": "Indonesia",
-   "about": "Someone who is enthusiastic about learning how to create good and efficient applications",
-   "language": "Native Indonesian and passive English",
-   "learning_tech": {
-      "website": {
-         "front_end": [
-            "React JS"
-         ],
-         "back_end": [
-            "Express Js",
-            "Laravel"
-         ]
-      },
-      "android": [
-         "Kotlin"
-      ],
-      "database": [
-         "Mysql",
-         "PostgreSQL",
-         "MongoDB",
-         "Sqlite"
-      ]
-   }
-}
-```
-|<img align="center" src="https://streak-stats.demolab.com?user=ardwiinoo&theme=radical"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardwiinoo&show_icons=true&count_private=true&theme=radical" />|
-|---|---|
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
