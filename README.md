@@ -1,4 +1,8 @@
-[![ardwiinoo's header](./images/ardwiinoo.svg)](https://ardwiinoo.my.id/)
+<p align="center">
+  <a href="https://ardwiinoo.my.id/">
+    <img src="./images/ardwiinoo.svg" alt="ardwiinoo's header">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ardwiinoo.ardwiinoo" />
@@ -19,3 +23,7 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ardwiinoo&theme=gruvbox-duo&hide_border=true&fire=EB5454" alt="GitHub Streak" /></a>
+</p>
